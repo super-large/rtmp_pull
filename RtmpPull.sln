@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RtmpClient", "RtmpClient\RtmpClient.csproj", "{19B4A2C6-790C-4832-AE37-857335081ACA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RtmpService", "RtmpService\RtmpService.csproj", "{A39CE684-D6CF-4D81-9BD0-0C8AE684E13D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19B4A2C6-790C-4832-AE37-857335081ACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19B4A2C6-790C-4832-AE37-857335081ACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19B4A2C6-790C-4832-AE37-857335081ACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19B4A2C6-790C-4832-AE37-857335081ACA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A39CE684-D6CF-4D81-9BD0-0C8AE684E13D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A39CE684-D6CF-4D81-9BD0-0C8AE684E13D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A39CE684-D6CF-4D81-9BD0-0C8AE684E13D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A39CE684-D6CF-4D81-9BD0-0C8AE684E13D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B402BC40-B3D0-48FB-959B-D6F8B233BF2D}
+	EndGlobalSection
+EndGlobal
